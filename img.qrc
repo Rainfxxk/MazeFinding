@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>img/maze.png</file>
-        <file>img/hover.png</file>
-        <file>img/pressed.png</file>
-    </qresource>
-</RCC>
